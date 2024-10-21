@@ -25,7 +25,7 @@ Results-driven IT professional with a mathematics background and expertise in cy
 
 Here are some notable projects that I have worked on:
 
-1. **[Project Name](link-to-project)**
+1. **[Project Name](Project1)**
    - **Description**: Brief description of the project.
    - **Technologies Used**: List technologies or tools used.
    - **Key Features**: Highlight any standout features or achievements.
