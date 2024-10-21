@@ -18,7 +18,7 @@ Results-driven IT professional with a mathematics background and expertise in cy
 
 - **Programming Languages**: Python, SQL, Powershell, Command Line
 - **Tools & Technologies**: 
-- **Certifications**: CompTIA Security+, CompTIA Network+, CompTIA A+,
+- **Certifications**: CompTIA Security+, CompTIA Network+, CompTIA A+, Google Cybersecurity Certificate, Fortinet Certified Associate Cybersecurity
 - **Operating Systems**: Linux, Windows, MacOS
 
 ## Projects
