@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello, I'm Ryan Cressman
+<a href="https://www.linkedin.com/in/ryan-cressman-90835b150?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **ryancressman/ryancressman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
