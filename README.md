@@ -1,4 +1,4 @@
-# Hello, I'm Ryan Cressman
++# Hello, I'm Ryan Cressman
 <a href="https://www.linkedin.com/in/ryan-cressman-90835b150"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my Cybersecurity Portfolio! This repository showcases my skills, projects, and contributions in the field of cybersecurity. 
@@ -18,7 +18,7 @@ Results-driven IT professional with a mathematics background and expertise in cy
 
 - **Programming Languages**: Python, SQL, Powershell, Command Line
 - **Tools & Technologies**: 
-- **Certifications**: CompTIA Security+, CompTIA Network+, CompTIA A+, Google Cybersecurity Certificate, Fortinet Certified Associate Cybersecurity
+- **Certifications**: CompTIA Security+, CompTIA Network+, CompTIA A+, [Google Cybersecurity Certificate](https://github.com/ryancressman/Google-Cybersecurity-Certificate), Fortinet Certified Associate Cybersecurity
 - **Operating Systems**: Linux, Windows, MacOS
 
 ## Projects
