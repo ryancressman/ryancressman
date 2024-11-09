@@ -25,10 +25,17 @@ Results-driven IT professional with a mathematics background and expertise in cy
 
 Here are some notable projects that I have worked on:
 
-1. [Project1](https://github.com/ryancressman/Project1)
-   - **Description**: Brief description of the project.
-   - **Technologies Used**: List technologies or tools used.
-   - **Key Features**: Highlight any standout features or achievements.
+1. [SIEM Home Lab](https://github.com/ryancressman/SIEM-Home-Lab)
+   - **Description**: A virtualized environment using Splunk and the BOTSv3 dataset to practice log analysis and threat detection on a Windows 10 machine.
+   - **Technologies Used**: Splunk
+
+2. [Packet Sniffing Lab](https://github.com/ryancressman/Packet-Sniffer-Wireshark-Tcpdump)
+   - **Description**: A tool that captures and analyzes network traffic in real-time to identify performance issues, vulnerabilities, and potential security threats
+   - **Technologies Used**: Wireshark, tcpdump
+
+2. [Caesar Cipher Breaker](https://github.com/ryancressman/Caesar-Cipher-Breaker)
+   - **Description**: A tool designed to decrypt messages encoded with the Caesar cipher by shifting the alphabet, demonstrating basic cryptography techniques.
+   - **Technologies Used**: Python
 
 ## Contact
 
