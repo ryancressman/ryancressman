@@ -12,7 +12,7 @@ Welcome to my Cybersecurity Portfolio! This repository showcases my skills, proj
 
 ## About Me
 
-Results-driven IT professional with a mathematics background and expertise in cybersecurity technologies. Proficient in Microsoft, macOS, and Linux systems. Skilled in configuring and managing firewalls, utilizing SIEM tools for threat detection and response, and developing scripts in Python for automation. Experienced in SQL for database management and other cybersecurity-related tasks. Leveraging analytical skills from a mathematics degree to approach technical challenges strategically and deliver innovative solutions. Seeking to contribute mathematical acumen and technical expertise to enhance IT security.
+Dedicated IT professional with a strong foundation in mathematics and cybersecurity, complemented by hands-on experience in network analysis, system administration, and security tools. I maintain a home lab to continuously experiment with new technologies, build projects, and refine my technical expertise. Always working towards new certifications and developing innovative solutions, I am committed to advancing my career as a Network Engineer or Cybersecurity Engineer.
 
 ## Skills
 
