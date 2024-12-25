@@ -19,7 +19,7 @@ Results-driven IT professional with a mathematics background and expertise in cy
 - **Programming Languages**: Python, SQL, Powershell, Command Line
 - **Tools & Technologies**: Wireshark, tcpdump, Splunk, Active Directory
 - **Certifications**: CompTIA Security+, CompTIA Network+, CompTIA A+, [Google Cybersecurity Certificate](https://github.com/ryancressman/Google-Cybersecurity-Certificate), Fortinet Certified Associate Cybersecurity
-- **Operating Systems**: Linux, Windows, MacOS, Kali Linux
+- **Operating Systems**: Linux, Windows, MacOS
 
 ## Projects
 
